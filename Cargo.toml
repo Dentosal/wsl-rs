@@ -1,0 +1,12 @@
+[package]
+name = "wsl"
+version = "0.1.0"
+description = "Detect if the program is running under Windows Subsystem for Linux"
+authors = ["Hannes Karppila <hannes.karppila@gmail.com>"]
+edition = "2018"
+
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/Dentosal/wsl-rs"
+keywords = ["wsl", "windows", "run-time", "detection"]
+categories = ["os"]
