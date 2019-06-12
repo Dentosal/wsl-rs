@@ -1,5 +1,7 @@
 # Detect if the code is ran under Windows Subsystem for Linux
 
+[![On crates.io](https://img.shields.io/crates/v/wsl.svg)](https://crates.io/crates/wsl)
+
 ## Usage
 
 `wsl::is_wsl()` returns true under WSL, false otherwise.
