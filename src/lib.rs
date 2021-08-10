@@ -2,7 +2,7 @@
 //!
 //! # Usage
 //! ```
-//! wsl::is_wsl()
+//! wsl::is_wsl();
 //! ```
 //!
 #![deny(clippy::all)]
